@@ -37,6 +37,7 @@ body {
 
 #header-hero .header-bg img {
 		width: 100%;
+		object-fit: contain;
 }
 
 p.description {
@@ -177,6 +178,7 @@ p.description {
 		width: 100%;
 		height: 210px;
 		transition: all 0.5s ease;
+		object-fit: contain;
 }
 
 .our_courses_wrapper:after {
@@ -194,6 +196,7 @@ p.description {
 
 		.course_member img {
 				width: 100%;
+				object-fit: contain;
 		}
 }
 
@@ -253,6 +256,7 @@ p.design span {
 		.our_courses_wrapper .course_member img {
 				display: block;
 				width: 100%;
+				object-fit: contain;
 			
 		}
 
@@ -308,6 +312,7 @@ p.design span {
 				width: 100%;
 				display: block;
 				height: auto;
+				object-fit: contain;
 		}
 
 		.products-header h2 {
