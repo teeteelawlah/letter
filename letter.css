@@ -280,6 +280,7 @@ p.design span {
 				font-size: 17px;
 				text-align: center;
 				display: block;
+				position: relative;
 		}
 
 }
@@ -304,6 +305,7 @@ p.design span {
 				font-size: 17px;
 				text-align: center;
 				display: block;
+				position: relative;
 		}
 }
 
@@ -323,6 +325,7 @@ p.design span {
 			font-size: 20px;
 			text-align: center;
 			display: block;
+			position: relative;
 	}
 
 		.our_courses_wrapper .course_member p {
