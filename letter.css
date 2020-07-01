@@ -278,6 +278,8 @@ p.design span {
 
 		.products-header h2 {
 				font-size: 17px;
+				text-align: center;
+				display: block;
 		}
 
 }
@@ -300,6 +302,8 @@ p.design span {
 
 		.products-header h2 {
 				font-size: 17px;
+				text-align: center;
+				display: block;
 		}
 }
 
@@ -317,6 +321,8 @@ p.design span {
 
 		.products-header h2 {
 			font-size: 20px;
+			text-align: center;
+			display: block;
 	}
 
 		.our_courses_wrapper .course_member p {
