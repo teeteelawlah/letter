@@ -43,7 +43,7 @@ p.description {
 		padding-top: 30px;
 		line-height: 30px;
 		font-family: Cambria;
-		font-size: 1.2rem;
+		font-size: 1.25vw;
 		font-style: normal;
 		margin-bottom: 5vw;
 		text-align: justify;
@@ -210,7 +210,7 @@ p.description {
 		text-transform: capitalize;
 		font-family: 'Arial Narrow Bold';
 		color: #000000;
-		font-size: 1.9rem;
+		font-size: 1.8vw;
 		font-weight: 600;
 		line-height: 1;
 		text-align: left;
@@ -229,7 +229,7 @@ p.design {
 		padding-top: 40px;
 		line-height: 30px;
 		font-family: Cambria;
-		font-size: 1.2rem;
+		font-size: 1.25vw;
 		font-style: normal;
 		margin-bottom: 5vw;
 		text-align: justify;
