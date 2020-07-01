@@ -245,6 +245,17 @@ p.design span {
 
 @media only screen and (max-width: 375px) {
 
+		.course_member {
+		width: 100%;
+		padding: 10px;
+		height: 220px;
+}
+
+.course_member img {
+		width: 100%;
+		object-fit: contain;
+}
+
 		.our_courses {
 				display: block;
 		}
